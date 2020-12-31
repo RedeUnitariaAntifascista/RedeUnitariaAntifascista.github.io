@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre Nós on Rede Unitária Antifascista</title>
+    <link>redeunitariaantifascista.github.io/about/</link>
+    <description>Recent content in Sobre Nós on Rede Unitária Antifascista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-PT</language><atom:link href="redeunitariaantifascista.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coletivos Integrantes</title>
+      <link>redeunitariaantifascista.github.io/about/integrantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>redeunitariaantifascista.github.io/about/integrantes/</guid>
+      <description>A Rede Unitária Antifascista é composta por:
+ Núcleo Antifascista dos Açores Núcleo Antifascista de Aveiro Núcleo Antifascista de Barcelos Núcleo Antifascista de Braga Núcleo Antifascista de Évora Núcleo Antifascista do Porto Núcleo Antifascista de Vila do Conde e Póvoa de Varzim Brigada Fernanda Mateus - Antifascistas de Coimbra Plataforma Antifascista de Lisboa e Vale do Tejo Grupo Antifascista Miguel Torga STCC - Sindicato dos Trabalhadores de Call Center  </description>
+    </item>
+    
+  </channel>
+</rss>
