@@ -5,7 +5,8 @@
     <link>https://redeunitariaantifascista.github.io/about/</link>
     <description>Recent content in Sobre Nós on Rede Unitária Antifascista</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-PT</language><atom:link href="https://redeunitariaantifascista.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-PT</language>
+    <lastBuildDate>Sat, 02 Jan 2021 19:19:04 +0000</lastBuildDate><atom:link href="https://redeunitariaantifascista.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coletivos Integrantes</title>
       <link>https://redeunitariaantifascista.github.io/about/integrantes/</link>
@@ -14,6 +15,16 @@
       <guid>https://redeunitariaantifascista.github.io/about/integrantes/</guid>
       <description>A Rede Unitária Antifascista é composta por:
  Núcleo Antifascista dos Açores Núcleo Antifascista de Aveiro Núcleo Antifascista de Barcelos Núcleo Antifascista de Braga Núcleo Antifascista de Évora Núcleo Antifascista do Porto Núcleo Antifascista de Vila do Conde e Póvoa de Varzim Brigada Fernanda Mateus - Antifascistas de Coimbra Plataforma Antifascista de Lisboa e Vale do Tejo Grupo Antifascista Miguel Torga STCC - Sindicato dos Trabalhadores de Call Center  </description>
+    </item>
+    
+    <item>
+      <title>Contactos</title>
+      <link>https://redeunitariaantifascista.github.io/about/contactos/</link>
+      <pubDate>Sat, 02 Jan 2021 19:19:04 +0000</pubDate>
+      
+      <guid>https://redeunitariaantifascista.github.io/about/contactos/</guid>
+      <description>Podes contactar-nos por:
+ Email: redeunitariaantifascista@protonmail.com Facebook: https://www.facebook.com/Redeunitariantifascista Twitter: https://twitter.com/RedeUnitaria Instagram: https://www.instagram.com/redeunitariaantifa/  </description>
     </item>
     
   </channel>
